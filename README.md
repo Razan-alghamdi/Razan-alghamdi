@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @Razan-alghamdi
+- 👀 I’m interested in programing...
+- 🌱 I’m currently learning information system ...
+- 📫 How to reach me by www.linkedin.com/in/razan-alghamdi-89b6a2221 ...
+
+<!---
+Razan-alghamdi/Razan-alghamdi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
